@@ -1,0 +1,14 @@
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\bin\Debug\net6.0\ArrayFlowchart.exe
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\bin\Debug\net6.0\ArrayFlowchart.deps.json
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\bin\Debug\net6.0\ArrayFlowchart.runtimeconfig.json
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\bin\Debug\net6.0\ArrayFlowchart.dll
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\bin\Debug\net6.0\ArrayFlowchart.pdb
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ArrayFlowchart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ArrayFlowchart.AssemblyInfoInputs.cache
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ArrayFlowchart.AssemblyInfo.cs
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ArrayFlowchart.csproj.CoreCompileInputs.cache
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ArrayFlowchart.dll
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\refint\ArrayFlowchart.dll
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ArrayFlowchart.pdb
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ArrayFlowchart.genruntimeconfig.cache
+C:\Users\nasib.ixtiyarli\Desktop\ArrayFlowchart\ArrayFlowchart\obj\Debug\net6.0\ref\ArrayFlowchart.dll
