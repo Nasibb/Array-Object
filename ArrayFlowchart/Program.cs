@@ -1,7 +1,7 @@
 ﻿#region Task1
 //1.array in elementlerinin cemini tapan flowchart ve kod.
 
-//int[] SumNumbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11,12 };
+//int[] SumNumbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 //int sum = default;
 //foreach (int number in SumNumbers)
 //{
@@ -27,8 +27,19 @@
 
 #endregion
 
-#region Task4
-//3.reqemlerden ibaret arrayin elementlerinin ededi ortasin tapin..
+#region Task3
+//3.reqemlerden ibaret arrayin elementlerinin ededi ortasin tapin.
+
+//double [] AvarageOfNumbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+//double sum = default;
+//double count = default;
+//{
+//    foreach (int number in AvarageOfNumbers)
+//    {
+//        sum += number;
+//        count++;
+//    }      
+//}
+//Console.WriteLine(sum / count);
 
 #endregion
-

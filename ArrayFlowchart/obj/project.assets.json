@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasib.ixtiyarli\\Desktop\\ArrayFlowchart\\ArrayFlowchart\\ArrayFlowchart.csproj",
+      "projectUniqueName": "C:\\Users\\nasib.ixtiyarli\\Desktop\\BEPS\\ArrayFlowchart\\ArrayFlowchart\\ArrayFlowchart.csproj",
       "projectName": "ArrayFlowchart",
-      "projectPath": "C:\\Users\\nasib.ixtiyarli\\Desktop\\ArrayFlowchart\\ArrayFlowchart\\ArrayFlowchart.csproj",
+      "projectPath": "C:\\Users\\nasib.ixtiyarli\\Desktop\\BEPS\\ArrayFlowchart\\ArrayFlowchart\\ArrayFlowchart.csproj",
       "packagesPath": "C:\\Users\\nasib.ixtiyarli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasib.ixtiyarli\\Desktop\\ArrayFlowchart\\ArrayFlowchart\\obj\\",
+      "outputPath": "C:\\Users\\nasib.ixtiyarli\\Desktop\\BEPS\\ArrayFlowchart\\ArrayFlowchart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nasib.ixtiyarli\\AppData\\Roaming\\NuGet\\NuGet.Config",
